@@ -1,1 +1,1 @@
-# Games-of-IMx
+#Project-of-IMx
